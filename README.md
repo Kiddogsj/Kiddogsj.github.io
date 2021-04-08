@@ -26,11 +26,11 @@
 
 近期，红火蚁的防治工作面临严峻考验，这一入侵物种再度进入人们的视野，于是，下面使用地图来展示2020年中国各省在红火蚁的防治工作上的开销，体现我国在防治红火蚁工作上的卓绝努力。
 
-[地图](https://Kiddogsj.github.io/Map.html)
+[红火蚁防治费用2020地图](https://Kiddogsj.github.io/Map.html)
 
 ## 4. 作业4
 
 火红蚁的生物入侵不是一日之功，其入侵中国并在中国多省活跃的情况也在逐年变化，各省的防治费用也在
 
-[组合图表](https://Kiddogsj.github.io/Timeline.html)
+[红火蚁防治费用组合图表](https://Kiddogsj.github.io/Timeline.html)
 
