@@ -4,8 +4,8 @@
 
 作业1描述
 
-[柱状图](Kiddogsj.github.io/Bar.html)
+[柱状图](https://Kiddogsj.github.io/Bar.html)
 
-[词云](Kiddogsj.github.io/WordCloud.html)
+[词云](https://Kiddogsj.github.io/WordCloud.html)
 
-[饼图](Kiddogsj.github.io/Pie.html)
+[饼图](https://Kiddogsj.github.io/Pie.html)
