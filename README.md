@@ -35,3 +35,16 @@
 [搜索引擎聚合页](https://Kiddogsj.github.io/HW2/Search/index.html)
 
 #### 3、CSS优化展示
+
+本任务使用了两个网页互相对比，展示了CSS的以下功能：
+
++ 以横向导航栏的形式展示链接
++ 文本首行缩进
++ 图片展示效果优化
+
+具体的网页地址如下：
+
+[不使用CSS的网页](https://Kiddogsj.github.io/HW2/NoCSS.html)
+
+
+[使用CSS的网页](https://Kiddogsj.github.io/HW2/CSS.html)
