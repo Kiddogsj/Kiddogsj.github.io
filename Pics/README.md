@@ -1,3 +1,0 @@
-# Pictures
-
-Picture Bed!
